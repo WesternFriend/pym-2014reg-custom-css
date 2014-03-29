@@ -2,4 +2,4 @@ name = PYM 2014 reg. custom CSS
 description = Custom stylesheets for the PYM 2014 online registration.
 core = 7.x
 package = Pacific Yearly Meeting
-stylesheets[all][] = pym-2014reg-custom.css
+stylesheets[all][] = pym_2014reg_custom.css
