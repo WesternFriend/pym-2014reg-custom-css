@@ -2,3 +2,7 @@
 {
   clear: both !important;
 }
+#edit-actions
+{
+  display: none;
+}
