@@ -11,3 +11,19 @@
   float: right;
   font-size: 1.5em;
 }
+.delete-line-item
+{
+  padding: 0.5em !important;
+}
+#block-commerce-cart-cart
+{
+  padding: 0;
+}
+#header
+{
+  padding: 0.3em 0em !important;
+  min-height: 0em !important;
+}
+#main-content
+{
+  padding: 0.5em 0em !important;
