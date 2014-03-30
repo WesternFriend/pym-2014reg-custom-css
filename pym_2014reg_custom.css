@@ -2,7 +2,12 @@
 {
   clear: both !important;
 }
-#edit-actions
+.commerce-line-item-actions
 {
   display: none;
+}
+.checkout-button
+{
+  float: right;
+  font-size: 1.5em;
 }
