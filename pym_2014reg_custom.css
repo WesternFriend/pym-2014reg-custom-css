@@ -15,9 +15,17 @@
 {
   padding: 0.5em !important;
 }
+.drilldown-active-menu a
+{
+  height: auto !important;
+}
 #block-commerce-cart-cart
 {
   padding: 0;
+}
+#admin-toolbar ul.menu li a
+{
+  height: auto !important;
 }
 #header
 {
@@ -27,3 +35,4 @@
 #main-content
 {
   padding: 0.5em 0em !important;
+}
